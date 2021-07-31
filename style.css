@@ -13,6 +13,10 @@ body {
 
 header {
     font-size: 1.6rem;
+    color: #292929;
+}
+
+h1 {
     color: #fff;
 }
 
